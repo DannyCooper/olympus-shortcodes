@@ -18,11 +18,11 @@ Adds the following shortcodes you can use in your posts, pages and widgets:
 
 See all the shortcodes in action here - [http://olympusthemes.com/shortcodes](http://olympusthemes.com/shortcodes)
 
-= Bugs =
+## Bugs ##
 If you find an issue, let us know [here](https://github.com/DannyCooper/olympus-shortcodes/issues)!
 
 
-= Contributions =
+## Contributions ##
 Anyone is welcome to contribute to Olympus Shortcodes.
 
 There are various ways you can contribute:
